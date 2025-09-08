@@ -2,8 +2,7 @@
 n=int(input("enter a number : "))
 if n % 2 == 0:
     print("Even")
-else:
-    print("Odd")
-#input : enter a number : 7
-#output : Odd
+#input : enter a number : 10
+#output : Even
+
 
