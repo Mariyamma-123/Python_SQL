@@ -4,3 +4,7 @@ first=n[0]
 last=n[-1]
 print(first)
 print(last)
+#input=6789
+#output
+6
+7
